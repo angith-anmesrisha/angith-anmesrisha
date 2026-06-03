@@ -33,6 +33,6 @@ I'm a Full Stack Developer from Kerala.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=angith-anmesrisha&theme=github_dark" height="150" />
 </p>
 
-### 📈 Contribution Activity
+### 📈 Contribution Activity.
 
 ![Metrics](https://metrics.lecoq.io/angith-anmesrisha?base=header,activity,community&base.indie=true&config.timezone=Asia/Kolkata&theme=github-dark)
