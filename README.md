@@ -27,7 +27,9 @@ I'm a Full Stack Developer from Kerala.
 ---
 
 ## 📊 My Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=angith-anmesrisha&show_icons=true&theme=dark)
 
-## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angith-anmesrisha&layout=compact&theme=dark)
+![Your GitHub Stats](https://github-readme-stats-anuraghazra.vercel.app/api?username=angith-anmesrisha&show_icons=true&theme=dark)
+
+### 💻 Top Languages
+
+![Top Langs](https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=angith-anmesrisha&layout=compact&theme=dark)
