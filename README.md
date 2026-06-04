@@ -12,7 +12,7 @@ I'm a Full Stack Developer from Kerala.
 ---
 
 ## 🛠️ My Tech Stack
-<h3 align="left">My Tech Stack</h3>
+
 <p align="left"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="react" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />&nbsp;&nbsp;
